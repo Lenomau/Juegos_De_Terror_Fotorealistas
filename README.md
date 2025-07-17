@@ -16,3 +16,4 @@
 ### Resolución mínima: 1280x720 (se recomienda 1366x768 para una mejor experiencia)
 
 
+## 📌 Notas del Desarrollador:
