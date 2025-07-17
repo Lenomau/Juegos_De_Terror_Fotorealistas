@@ -12,7 +12,7 @@
 
 ### DirectX: Versión 11
 
-### Almacenamiento: [2GB]
+### Almacenamiento: 2GB
 
 ### Resolución mínima: 800x500 o 1280x720 (se recomienda 1920x1080 para una mejor experiencia)
 
@@ -28,7 +28,7 @@
 
 ### DirectX: Versión 12
 
-### Almacenamiento: SSD con al menos 20 GB libres
+### Almacenamiento: SSD con al menos 2GB libres
 
 ### Resolución recomendada: 1920x1080 (Full HD) o superior
 
