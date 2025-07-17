@@ -1,6 +1,6 @@
 # Nombre: SinSeñal
 ## Fecha de inicio: 19/06/2025 
-## Estado: en desarrollo ␣␣  
+## Estado: en desarrollo 
 ## requisitos minimos:
 
 ### Sistema Operativo: Windows 7 / 8.1 / 10 (64 bits o 32 bits)
