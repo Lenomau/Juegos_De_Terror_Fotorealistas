@@ -17,6 +17,24 @@
 ### Resolución mínima: 800x500 o 1280x720 (se recomienda 1920x1080 para una mejor experiencia)
 
 
+## Requisitos recomendados:
+### Sistema Operativo: Windows 10 64 bits o superior (Windows 11 recomendado)
+
+### Procesador: Intel® Core™ i5-11400H (11ª generación) @ 2.7 GHz o superior
+
+### Memoria RAM: 16 GB DDR4 o más
+
+### Tarjeta Gráfica: NVIDIA GeForce RTX 2050 con 4 GB de VRAM
+
+### DirectX: Versión 12
+
+### Almacenamiento: SSD con al menos 20 GB libres
+
+### Resolución recomendada: 1920x1080 (Full HD) o superior
+
+
+
+
 # 📌 Notas del Desarrollador
 
 ## hardware moderno:
