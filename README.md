@@ -1,4 +1,4 @@
-#Nombre: SinSeñal
+# Nombre: SinSeñal
 ## Fecha de inicio: 19/06/2025 
 ## Estado: En desarrollo 
 
