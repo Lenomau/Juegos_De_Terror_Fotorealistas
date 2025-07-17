@@ -1,7 +1,8 @@
 # Nombre: SinSeñal
 ## Fecha de inicio: 19/06/2025 
 ## Estado: En desarrollo 
-## requisitos minimos:
+
+# requisitos minimos:
 
 ### Sistema Operativo: Windows 7 / 8.1 / 10 (64 bits o 32 bits)
 
@@ -17,7 +18,7 @@
 
 ### Resolución mínima: 800x500 o 1280x720 (se recomienda 1920x1080 para una mejor experiencia)
 
-## Requisitos recomendados:
+# Requisitos recomendados:
 ### Sistema Operativo: Windows 10 64 bits o superior (Windows 11 recomendado)
 
 ### Procesador: Intel® Core™ i5-11400H (11ª generación) @ 2.7 GHz o superior
