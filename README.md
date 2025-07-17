@@ -1,5 +1,5 @@
 # Nombre: SinSeñal
-## Fecha de inicio 5/1/2025 
+## Fecha de inicio 5/01/2025 
 ## Estado en desarrollo 
 ## requisitos minimos:
 
