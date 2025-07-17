@@ -1,8 +1,18 @@
 # Nombre: SinSeñal
 ## requisitos minimos:
 
-### Procesador	Intel(R) Pentium(R) CPU 4415U @ 2.30GHz   2.30 GHz
-### RAM instalada	4,00 GB 
-### Tarjeta gráfica	Intel(R) HD Graphics 610 (128 MB)
-### Tipo de sistema	Sistema operativo de 64 bits, procesador basado en x64 o de 32 bits
+### Sistema Operativo: Windows 7 / 8.1 / 10 (64 bits o 32 bits)
+
+### Procesador: Intel® Pentium® 4415U @ 2.30GHz o equivalente
+
+### Memoria RAM: 4 GB
+
+### Tarjeta Gráfica: Intel® HD Graphics 610 con al menos 128 MB de VRAM
+
+### DirectX: Versión 11
+
+### Almacenamiento: [2GB]
+
+### Resolución mínima: 1280x720 (se recomienda 1366x768 para una mejor experiencia)
+
 
