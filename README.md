@@ -16,4 +16,23 @@
 ### Resolución mínima: 1280x720 (se recomienda 1366x768 para una mejor experiencia)
 
 
-## 📌 Notas del Desarrollador:
+# 📌 Notas del Desarrollador
+
+## hardware moderno:
+
+### El juego con todo a Ultra va:
+
+### Cpu 35%
+### Ram de 80MB a 90 MB
+### Gpu 99%
+### Fps 204
+
+## Hardware Antiguo:
+
+### El juego con Graficos bajo/Medio va:
+
+### Cpu 12%
+### Ram de 20MB a 50 MB
+### Gpu 60% a 80%
+### Fps +60
+
