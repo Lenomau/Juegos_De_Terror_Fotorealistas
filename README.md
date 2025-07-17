@@ -16,7 +16,7 @@
 
 ### Resolución mínima: 800x500 o 1280x720 (se recomienda 1920x1080 para una mejor experiencia)
 
-## 
+#   
 
 ## Requisitos recomendados:
 ### Sistema Operativo: Windows 10 64 bits o superior (Windows 11 recomendado)
