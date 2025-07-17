@@ -14,7 +14,7 @@
 
 ### Almacenamiento: [2GB]
 
-### Resolución mínima: 1280x720 (se recomienda 1366x768 para una mejor experiencia)
+### Resolución mínima: 1280x720 (se recomienda 1920x1080 para una mejor experiencia)
 
 
 # 📌 Notas del Desarrollador
